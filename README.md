@@ -8,4 +8,5 @@
 
 #### Assignment 2
 ***Use only Absolute,Relative and Box-Model to create this design***
+
 ![Image_of_assignment_2](Assignment_2/assets/img/assignment2.png)
