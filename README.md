@@ -19,3 +19,9 @@
 ***Use only Absolute,Relative and Sticky positions to create this design***
 
 ![Image_of_assignment_1](Assignment_2/assets/img/assignment4.png)
+
+#### Assignment 5 & Assignment 6
+***Use transitions and key-frames to implement this Animations.***
+
+![Image_of_assignment_1](Assignment_2/assets/img/assignment5.png)
+![Image_of_assignment_1](Assignment_2/assets/img/assignment6.png)
