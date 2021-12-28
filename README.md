@@ -25,3 +25,23 @@
 
 ![Image_of_assignment_1](Assignment_2/assets/img/assignment5.png)
 ![Image_of_assignment_1](Assignment_2/assets/img/assignment6.png)
+
+#### Assignment 7 
+***Basic rotation with animation.***
+
+![Image_of_assignment_1](Assignment_2/assets/img/assignment7.png)
+
+#### Assignment 8
+***Create image slider from using CSS animations.***
+
+![Image_of_assignment_1](Assignment_2/assets/img/assignment8.png)
+
+#### Assignment 9
+***Create animation for a loader which look like a Water Drop.***
+
+![Image_of_assignment_1](Assignment_2/assets/img/assignment9.png)
+
+#### Assignment 10
+***Car Animation***
+
+![Image_of_assignment_1](Assignment_2/assets/img/assignment10.png)
